@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ryanify"
   gem.homepage = "http://github.com/ryanbraganza/ryanify"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{adds a ryan method to Object}
+  gem.description = %Q{useless gem. adds a ryan method to Object}
   gem.email = "ryan.braganza@gmail.com"
   gem.authors = ["Ryan Braganza"]
   # dependencies defined in Gemfile
